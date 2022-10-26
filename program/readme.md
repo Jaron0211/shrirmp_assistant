@@ -5,7 +5,7 @@
 先把8266的韌體燒錄成資料夾內的BIN檔，就可以使用arduino進行開發(軟體為nodemcu flasher)
 至於燒錄的方法還有線怎麼接，就自己去網路上找。
 
-### command_base:
+#### command_base:
 主要是直接接收來自Arduino傳輸的指令，轉換為POST/GET的指令。
 
 ### feeder:
